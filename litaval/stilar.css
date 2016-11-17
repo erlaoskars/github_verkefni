@@ -13,7 +13,7 @@ body {
 
 	/*Settu eigin stíla hér fyrir vetur litaþema*/
 
-   	background: linear-gradient(to top left, blue, white); /* Standard syntax (must be last) */
+   	background: linear-gradient(to top left, black, white); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
 	height: 100%;
